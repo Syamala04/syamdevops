@@ -4,9 +4,9 @@ public class Addition
 {
 	public static void main(String ars[])
 	{
-		int a=10;
-		int b=5;
-		System.out.println("a+b");
+		int a=7;
+		int b=17;
+		System.out.println(a+b);
 	}
 
 }
